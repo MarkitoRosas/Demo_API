@@ -1,0 +1,25 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id btnDelete
+id btnSave
+id btnSearch
+id btnUpdate
+id etCodigoBarras
+id etDescripcion
+id etExistencias
+id etMarca
+id etprecioCompra
+id etprecioVenta
+id lvProducts
+layout activity_main
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Base.Theme.Demo_Api
+style Theme.Demo_Api
+xml backup_rules
+xml data_extraction_rules
